@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx json-server --watch toDoList.json",
+    "build": "install"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
